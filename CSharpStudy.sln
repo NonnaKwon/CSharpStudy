@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpStudy", "CSharpStudy\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DataType", "01. DataType\01. DataType.csproj", "{DB230D83-3339-44D9-95AA-69D835891602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Operator", "02. Operator\02. Operator.csproj", "{5C112246-31B4-44C8-859F-08808931B9B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DB230D83-3339-44D9-95AA-69D835891602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB230D83-3339-44D9-95AA-69D835891602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB230D83-3339-44D9-95AA-69D835891602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C112246-31B4-44C8-859F-08808931B9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C112246-31B4-44C8-859F-08808931B9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C112246-31B4-44C8-859F-08808931B9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C112246-31B4-44C8-859F-08808931B9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
