@@ -23,9 +23,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Memory", "08. Memory\08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. OOP", "09. OOP\09. OOP.csproj", "{AAE9DE9A-A99D-47AF-9CC8-BCE16281D5BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{75927404-0EE2-406D-98DA-1C9EBFC272AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Interface", "Interface\10. Interface.csproj", "{75927404-0EE2-406D-98DA-1C9EBFC272AF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array", "11. Array\11. Array.csproj", "{D00D7F6F-49BF-4801-B9AB-EFAB8312AA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Generic", "12. Generic\12. Generic.csproj", "{B42D8E90-5167-4568-90C3-A74CDA52FA5E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{D00D7F6F-49BF-4801-B9AB-EFAB8312AA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00D7F6F-49BF-4801-B9AB-EFAB8312AA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00D7F6F-49BF-4801-B9AB-EFAB8312AA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42D8E90-5167-4568-90C3-A74CDA52FA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42D8E90-5167-4568-90C3-A74CDA52FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42D8E90-5167-4568-90C3-A74CDA52FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42D8E90-5167-4568-90C3-A74CDA52FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
